@@ -11,4 +11,4 @@ struct Developer {
 }
 ```
 
-[intptrr.cc](https://intptrr.cc) · [X](https://x.com/intptrr) · [hi@intptrr.cc](mailto:hi@intptrr.cc)
+🌐 [intptrr.cc](https://intptrr.cc) · 𝕏 [@intptrr](https://x.com/intptrr) · ✉️ [hi@intptrr.cc](mailto:hi@intptrr.cc)
