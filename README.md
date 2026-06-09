@@ -1,7 +1,7 @@
 ### Hi, I'm `intptrr` 👋
 
-I am a software engineer at **Azure Core** — working on
-Kubernetes, distributed systems, and open source.
+I am a software engineer on the **Azure Container Registry** team — working on
+cloud native infrastructure — Kubernetes, OCI, and distributed systems — in Go and C#.
 
 ```rust
 struct Developer {
